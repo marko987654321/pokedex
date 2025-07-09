@@ -1,0 +1,1 @@
+// Pokemon types API routes 

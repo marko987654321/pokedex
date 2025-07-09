@@ -1,0 +1,1 @@
+// Pokemon detail component 
